@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+delivr_*.csv
+delivr_*.md
+.env
